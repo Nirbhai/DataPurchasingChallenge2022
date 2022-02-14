@@ -1,0 +1,8 @@
+name: dpc2022
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - notebook
+  - plotly
+prefix: /Users/nirbhaisingh/opt/anaconda3/envs/dpc2022

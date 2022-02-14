@@ -1,0 +1,1 @@
+Data Purchasing Challenge 2022 hosted by AIcrowd https://www.aicrowd.com/challenges/data-purchasing-challenge-2022
